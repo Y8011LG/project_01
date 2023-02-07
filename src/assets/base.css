@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+input {
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.box{
+    border: 1px dashed blue;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.title-1{
+    color: gray;
+    font-size: 14px;
+}
+
+.mt-1{
+    margin-top: 10px;
+}
+
+.tip{
+    display: inline-block;
+    padding: 10px 25px;
+    background-color: black;
+    color: #fff;
+    border-radius: 5px;
+    margin: 5px;
+}
